@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+publish/
+.vs/
+
+# Game assets / originals (user must own these)
+animations/
+audio/
+games/
+Steam-workshop/
+z Make Mods Here z/
+UI/
+files/
+custom-commands/
+
+# Game binaries
+PAIcom.exe
+PAIcom.exe.bak
+PAIcom.patched.exe
+PAIcom.patched2.exe
+
+# Third-party / game-bundled exes and DLLs
+Commands.exe
+mute.exe
+unmute.exe
+Guna.UI.dll
+
+# Runtime files
+command_input.txt
+hotswap.log
