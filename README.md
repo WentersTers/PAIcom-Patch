@@ -105,7 +105,7 @@ count — useful for debugging ConfuserEx-obfuscated assemblies.
 Requires the [.NET 8 SDK](https://dotnet.microsoft.com/download).
 
 ```
-git clone https://github.com/yourname/paicom-hotswap-patcher
+git clone https://github.com/WentersTers/PAIcom-Patch-Injector.git
 cd paicom-hotswap-patcher
 dotnet build PAIcomPatcher.csproj -c Release
 ```
@@ -146,3 +146,4 @@ dotnet publish PAIcomPatcher.csproj -c Release -r win-x64 ^
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
