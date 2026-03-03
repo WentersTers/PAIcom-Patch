@@ -1,4 +1,4 @@
-PAIcom HotSwap Patcher
+Patcher
 
 Extends your own copy of PAIcom.exe with a file‑watching runtime, enabling you to trigger in‑game commands by writing a phrase to a text file — no microphone required.
 
